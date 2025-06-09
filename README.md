@@ -15,8 +15,11 @@ A clean and functional web-based calculator built using **HTML**, **CSS**, and *
 ---
 
 ## 📁 Project Structure
+
 -index.html  # Main HTML file
+
 -style.css # Calculator styling
+
 -script.js # Button logic & evaluation
 
 
