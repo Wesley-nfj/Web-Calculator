@@ -16,10 +16,32 @@ A clean and functional web-based calculator built using **HTML**, **CSS**, and *
 
 ## 📁 Project Structure
 
--index.html  # Main HTML file
+-index.html : Main HTML file
 
--style.css # Calculator styling
+-style.css : Calculator styling
 
--script.js # Button logic & evaluation
+-script.js : Button logic & evaluation
 
+---
 
+## 🚀 How to Set Up and Run this project
+
+### 1. Fork the Repository
+Click the **Fork** button in the top-right corner of the original repository to create your own copy.
+
+### 2. Clone the Repository
+Open a terminal or command prompt and run:
+
+```bash
+git clone https://github.com/your-username/repository-name.git
+```
+
+### 3. Navigate to the directory where `dice_roller.py` is saved.
+  ```bash
+  cd repository-name
+  ```
+### 4. Run the program
+---
+
+## 📜 License
+This project is licensed under the MIT License.
